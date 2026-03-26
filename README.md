@@ -1,4 +1,4 @@
-# Airport Survey Analyzer ✈️📊
+# Airport Survey Analyzer 
 
 A **Python-based flight survey analysis tool** that processes airport departure data from CSV datasets and generates statistical insights along with graphical histogram visualizations.
 
@@ -315,6 +315,9 @@ This project demonstrates skills in:
 
 Computer Science Undergraduate  
 University of Westminster / IIT
+
+Email:
+omiru.dasanayake@gmail.com
 
 GitHub:  
 https://github.com/Anupama-Omiru-Dasanayake
